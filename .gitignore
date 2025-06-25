@@ -1,0 +1,23 @@
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ignore virtual environments
+venv/
+
+# Ignore model files
+*.pth
+*.pkl
+
+# Ignore system files
+.DS_Store
+
+# Ignore notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Streamlit temporary files
+.streamlit/
+
+# Ignore logs and dumps
+*.log
